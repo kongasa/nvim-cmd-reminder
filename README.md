@@ -13,7 +13,14 @@ a simple reminder for learning vim commands the not-hard way
 or
 
 1. copy code in vim-cmd-helper/plugin/vim-cmd-helper.lua
-2. paste in [neovim's root init.lua](https://neovim.io/doc/user/starting.html#init.lua)
+2. paste and edit in [neovim's root init.lua](https://neovim.io/doc/user/starting.html#init.lua)
+
+---
+
+```vim
+:lua hint()
+:lua chint()
+```
 
 ## Some useful sites
 
