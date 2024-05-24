@@ -7,7 +7,7 @@ a simple reminder for learning vim commands the not-hard way
 ## Usage
 
 1. download
-2. config it as a local plugin use a plugin manager like lazy.nvim
+2. config it as a local plugin using a plugin manager like lazy.nvim
 3. rewrite the notes in vim-cmd-helper/plugin/vim-cmd-helper.lua
 
 ## Some useful sites
