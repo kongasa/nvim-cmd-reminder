@@ -89,4 +89,9 @@ local function exit_plugin()
   vim.api.nvim_buf_delete(plugin_buf, { force = true })
 end
 
-exec_plugin()
+function hint()
+  exec_plugin()
+end
+function chint()
+  exit_plugin()
+end

@@ -10,6 +10,11 @@ a simple reminder for learning vim commands the not-hard way
 2. config it as a local plugin using a plugin manager like lazy.nvim
 3. rewrite the notes in vim-cmd-helper/plugin/vim-cmd-helper.lua
 
+or
+
+1. copy code in vim-cmd-helper/plugin/vim-cmd-helper.lua
+2. paste in [neovim's root init.lua](https://neovim.io/doc/user/starting.html#init.lua)
+
 ## Some useful sites
 
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
